@@ -1,5 +1,5 @@
 {
-    "name": "guruai",
+    "name": "TITAN-MD-V1-BOT",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Ai",
     "main": "index.js",
@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/Motari27/TITAN-MD-V1-BOT",
     "author": {
-        "name": "GURU"
+        "name": "TITAN"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/Motari27/TITAN-MD-V1-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/Motari27/TITAN-MD-V1-BOT/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {

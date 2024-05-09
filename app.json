@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-Automation",
+  "name": "Titan-md@2.0.0",
   "description": " Whatsapp Ai.",
   "keywords": [
     "whatsapp Ai"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/Motari27/TITAN-MD-V1-BOT",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -20,14 +20,14 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
-     "HKEY": {
+     "HEROKUKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
       "value": ""
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
